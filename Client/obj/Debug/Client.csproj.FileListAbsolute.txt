@@ -1,0 +1,19 @@
+C:\MVS\NamedPipeService\Client\bin\Debug\Client.exe.config
+C:\MVS\NamedPipeService\Client\bin\Debug\Client.exe
+C:\MVS\NamedPipeService\Client\bin\Debug\Client.pdb
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.Properties.Resources.resources
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.exe
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.pdb
+C:\MVS\NamedPipeService\Client\obj\Debug\Client.Form1.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\bin\Debug\Client.exe.config
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\bin\Debug\Client.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\bin\Debug\Client.pdb
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.csprojAssemblyReference.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.Form1.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.csproj.GenerateResource.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.exe
+C:\Users\agole\Desktop\тимп лабы 1-7\4 - NamedPipeService\Client\obj\Debug\Client.pdb

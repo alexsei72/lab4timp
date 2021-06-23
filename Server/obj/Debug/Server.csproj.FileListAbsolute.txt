@@ -1,0 +1,13 @@
+C:\MVS\NamedPipeService\Service\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\NamedPipeService\Service\bin\Debug\Server.exe.config
+C:\MVS\NamedPipeService\Service\bin\Debug\Server.exe
+C:\MVS\NamedPipeService\Service\bin\Debug\Server.pdb
+C:\MVS\NamedPipeService\Service\obj\Debug\Server.exe
+C:\MVS\NamedPipeService\Service\obj\Debug\Server.pdb
+C:\MVS\NamedPipeService\Service\obj\Debug\Server.csprojAssemblyReference.cache
+C:\MVS\NamedPipeService\Server\bin\Debug\Server.exe.config
+C:\MVS\NamedPipeService\Server\bin\Debug\Server.exe
+C:\MVS\NamedPipeService\Server\bin\Debug\Server.pdb
+C:\MVS\NamedPipeService\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\MVS\NamedPipeService\Server\obj\Debug\Server.exe
+C:\MVS\NamedPipeService\Server\obj\Debug\Server.pdb
